@@ -44,7 +44,7 @@ The local experiment produced hidden-test aggregate scores of 0.7838 for a minim
 - [`harness2_feynman/feynman_adapter.py`](./harness2_feynman/feynman_adapter.py): benchmark adapter, bounded substrate, rollout execution, and structured judge.
 - [`harness2_feynman/run_full_pipeline.py`](./harness2_feynman/run_full_pipeline.py): staged optimization, development selection, freezing, hidden testing, and resumable state handling.
 - [`task_generation`](./task_generation): resumable task-generation and independent-verification utilities. Generated work products are excluded.
-- [`objective_and_benchmark.md`](./objective_and_benchmark.md): benchmark design, split policy, task schema, and evaluation methodology. Generated benchmark records are excluded from the public release.
+- The benchmark design, split policy, task schema, and evaluation methodology are summarized in this README. Private research notes and generated work products are excluded from the public release.
 - [`feynman-harness`](./feynman-harness): original bounded behavioral surface.
 
 ## Public-repository exclusions
