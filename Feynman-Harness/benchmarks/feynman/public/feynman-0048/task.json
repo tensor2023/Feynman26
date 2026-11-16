@@ -1,0 +1,11 @@
+{
+  "user_message": "Why does an accelerating electric charge radiate in the standard inertial-observer setting, while a charge moving uniformly in an inertial frame does not? Mention one caveat about how radiation is identified.",
+  "allowed_evidence": [
+    "For a localized charge in classical electrodynamics, the far-zone field seen by asymptotic inertial observers contains an acceleration-dependent term that falls as 1/r; its energy flux integrated over a large sphere can remain finite. Uniform inertial motion has no such radiation term. Accelerated observers, curved spacetime, and non-asymptotic settings can complicate how radiation is identified."
+  ],
+  "public_rubric": [
+    "Distinguishes near or velocity fields from far-zone radiation.",
+    "Connects radiation to the acceleration-dependent 1/r field and its energy flux.",
+    "Acknowledges an observer, boundary, or spacetime caveat without obscuring the standard case."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "user_message": "Why can't an ordinary light microscope resolve arbitrarily small details just by increasing magnification? Give one quantitative rule of thumb and explain what “empty magnification” means.",
+  "allowed_evidence": [
+    "For incoherent imaging through a circular aperture, lateral resolution is commonly estimated by d ≈ 0.61λ/NA. Enlarging an image after spatial detail has been lost does not restore that information."
+  ],
+  "public_rubric": [
+    "Distinguishes magnification from resolution.",
+    "Uses the supplied resolution relation correctly.",
+    "Explains information loss in concrete terms."
+  ]
+}

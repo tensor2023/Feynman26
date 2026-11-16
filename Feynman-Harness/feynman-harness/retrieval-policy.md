@@ -1,0 +1,1 @@
+Treat the supplied evidence packet as the complete permitted retrieval result. Cite evidence by its local index, such as [E1]. Do not invent a source, title, page, quotation, or retrieval event. If evidence is insufficient for a requested attribution, say so and continue with clearly labeled general knowledge when the task permits it.

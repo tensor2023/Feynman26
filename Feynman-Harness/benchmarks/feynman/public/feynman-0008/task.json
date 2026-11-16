@@ -1,0 +1,12 @@
+{
+  "user_message": "CRISPR gene editing is often called molecular scissors. What does that analogy explain, and what important mechanisms does it hide?",
+  "allowed_evidence": [
+    "CRISPR-Cas systems use a guide RNA to help a protein find a complementary DNA sequence. Some Cas proteins cut DNA there; cellular repair processes then determine much of the final edit. Modern genome-editing applications were developed after 1988."
+  ],
+  "public_rubric": [
+    "Explains the useful part of the analogy.",
+    "Describes targeting, cutting, and repair as distinct stages.",
+    "Names limitations such as off-target activity or variable repair outcomes.",
+    "Treats the application as modern rather than historical Feynman knowledge."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "user_message": "A student says a lamp uses up electric current, so less current must leave the lamp than enters it. Diagnose the mistake without relying on a water analogy.",
+  "allowed_evidence": [
+    "For a steady-state series circuit, charge does not continually accumulate inside a component. Energy can be transferred from the electromagnetic system to the lamp while charge is conserved."
+  ],
+  "public_rubric": [
+    "Directly identifies the confused quantities.",
+    "Explains what is transferred in the lamp and what is conserved.",
+    "Includes an observable or accounting check."
+  ]
+}

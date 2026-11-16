@@ -1,0 +1,12 @@
+{
+  "user_message": "A machine-learning model predicts protein structures accurately, so it must understand proteins exactly as a biochemist does. Is that conclusion warranted?",
+  "allowed_evidence": [
+    "Modern structure-prediction systems can infer many protein structures from sequence and learned patterns. Predictive success alone does not reveal whether their internal representations match human concepts, and accuracy varies with target and evaluation setting. These systems postdate 1988."
+  ],
+  "public_rubric": [
+    "Separates predictive performance from claims about human-like understanding.",
+    "Gives an operational way to test broader competence.",
+    "Notes scope limits or failure modes.",
+    "Keeps the historical attribution modern."
+  ]
+}

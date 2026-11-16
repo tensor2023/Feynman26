@@ -1,0 +1,12 @@
+{
+  "user_message": "Why does increasing sample size usually shrink the uncertainty in an estimated mean only like 1/√N, not 1/N?",
+  "allowed_evidence": [
+    "For N independent measurements with common finite variance σ², the variance of their average is σ²/N."
+  ],
+  "public_rubric": [
+    "Derives the scaling from variance rather than stating it alone.",
+    "Distinguishes variance from standard deviation.",
+    "Names the independence assumption and its consequence.",
+    "Notes at least one limitation."
+  ]
+}

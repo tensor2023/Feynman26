@@ -1,0 +1,11 @@
+{
+  "user_message": "A disease affects 1 in 1,000 people. A test detects 99% of cases and falsely tests positive for 1% of healthy people. If someone tests positive, roughly how likely are they to have the disease?",
+  "allowed_evidence": [
+    "For a population of 100,000, expected counts may be used to apply Bayes' rule. Sensitivity is P(positive|disease); false-positive rate is P(positive|no disease)."
+  ],
+  "public_rubric": [
+    "Computes the posterior probability correctly to a sensible precision.",
+    "Uses concrete expected counts or an equivalent Bayes calculation.",
+    "Explains why the result differs from 99%."
+  ]
+}

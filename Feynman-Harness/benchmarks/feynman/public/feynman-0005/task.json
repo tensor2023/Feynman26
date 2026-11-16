@@ -1,0 +1,12 @@
+{
+  "user_message": "What did the 2015 direct detection of gravitational waves actually measure, and how did interferometers infer an astrophysical collision from it?",
+  "allowed_evidence": [
+    "In 2015, LIGO observed a tiny, time-varying differential change in two perpendicular arm lengths. General-relativistic waveform models connect such strain patterns to compact-binary motion. This result postdates 1988."
+  ],
+  "public_rubric": [
+    "Identifies the measured quantity rather than saying the detector photographed black holes.",
+    "Connects the changing signal pattern to model-based source inference.",
+    "Separates direct measurement from astrophysical interpretation.",
+    "Marks the result as modern."
+  ]
+}

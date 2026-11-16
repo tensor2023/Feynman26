@@ -1,0 +1,11 @@
+{
+  "user_message": "A muon created high in the atmosphere has a mean lifetime of only about 2.2 microseconds in its rest frame. How can many reach Earth's surface without violating that lifetime?",
+  "allowed_evidence": [
+    "The mean proper lifetime of a muon is about 2.2 microseconds. In special relativity, the mean lifetime of moving muons is longer by the Lorentz factor in the laboratory frame; in the muon's frame, the atmosphere's thickness is length-contracted."
+  ],
+  "public_rubric": [
+    "Uses the proper lifetime and the relevant reference frame correctly.",
+    "Reconciles the laboratory-frame and muon-frame descriptions.",
+    "Includes a simple scale estimate or limiting check."
+  ]
+}

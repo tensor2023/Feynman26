@@ -1,0 +1,12 @@
+{
+  "user_message": "Design a controlled Hall-effect experiment to determine the sign of the dominant mobile carriers in a metal sample under a simple ordinary-Hall interpretation. What observations and reversals would make the conclusion credible, and when would that interpretation be inadequate?",
+  "allowed_evidence": [
+    "A current-carrying sample in a perpendicular magnetic field can develop a transverse Hall voltage. Its sign depends on carrier response, current direction, magnetic-field direction, and voltage-lead convention. Thermoelectric, contact, and longitudinal-voltage offsets need not reverse with the magnetic field. In multiband or magnetically ordered materials, Hall-sign interpretation can be more complicated than a single-carrier model."
+  ],
+  "public_rubric": [
+    "Specifies the sample, current, magnetic field, and transverse-voltage measurement.",
+    "Uses explicit polarity conventions and controlled reversals to infer an ordinary Hall sign.",
+    "Includes controls for offsets and geometry.",
+    "Limits the carrier-sign conclusion when multiband or anomalous Hall effects may matter."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "user_message": "A bar magnet falls more slowly through a copper pipe than through a plastic pipe. Explain why, and predict what changes if the copper pipe has a slit along its length.",
+  "allowed_evidence": [
+    "Changing magnetic flux through a conductor induces electric fields and currents. By Lenz's law, the induced magnetic effect opposes the change producing it. A longitudinal slit interrupts many closed circumferential current paths."
+  ],
+  "public_rubric": [
+    "Connects motion, changing flux, induced currents, and force.",
+    "Predicts the slit-pipe outcome with a reason.",
+    "Mentions where the lost mechanical energy goes."
+  ]
+}

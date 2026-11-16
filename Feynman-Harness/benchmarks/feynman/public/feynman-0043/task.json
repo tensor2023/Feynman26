@@ -1,0 +1,11 @@
+{
+  "user_message": "Why can energy be released both by fusing light nuclei and by splitting very heavy nuclei?",
+  "allowed_evidence": [
+    "Binding energy per nucleon generally rises from very light nuclei toward the iron-nickel region and then slowly falls for heavier nuclei. A reaction can release energy when its products have lower total mass, corresponding to greater total binding."
+  ],
+  "public_rubric": [
+    "Uses one consistent energetic principle for fusion and fission.",
+    "Connects the explanation to total nuclear binding rather than slogans.",
+    "States that favorable energy balance alone does not determine whether a reaction proceeds rapidly."
+  ]
+}

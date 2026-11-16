@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["items"],
+  "additionalProperties": false,
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["episode_id", "accepted", "rejection_reason", "prompt", "audience", "required_facts", "reasoning_moves", "communication_traits", "allowed_variation", "fatal_errors", "distinctive_phrases"],
+        "properties": {
+          "episode_id": {"type": "string"},
+          "accepted": {"type": "boolean"},
+          "rejection_reason": {"type": "string"},
+          "prompt": {"type": "string"},
+          "audience": {"type": "string"},
+          "required_facts": {"type": "array", "items": {"type": "string"}},
+          "reasoning_moves": {"type": "array", "items": {"type": "string"}},
+          "communication_traits": {"type": "array", "items": {"type": "string"}},
+          "allowed_variation": {"type": "array", "items": {"type": "string"}},
+          "fatal_errors": {"type": "array", "items": {"type": "string"}},
+          "distinctive_phrases": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    }
+  }
+}

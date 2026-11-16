@@ -1,0 +1,11 @@
+{
+  "user_message": "Why can blowing across the top of a sheet of paper make it rise? Is “faster air always means lower pressure” a sufficient explanation?",
+  "allowed_evidence": [
+    "Fluid acceleration and pressure are related through momentum conservation. Bernoulli's equation applies along a streamline under restrictive steady, incompressible, low-viscosity conditions. A free jet also entrains surrounding air and can attach to a curved surface."
+  ],
+  "public_rubric": [
+    "Explains the force using pressure and airflow changes.",
+    "Challenges the overgeneralized slogan.",
+    "States assumptions or real-flow effects relevant to the setup."
+  ]
+}

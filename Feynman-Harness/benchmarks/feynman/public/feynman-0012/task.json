@@ -1,0 +1,12 @@
+{
+  "user_message": "My first trial showed fertilizer A produced taller plants than B. I want to announce that A is superior. What follow-up would make that conclusion credible?",
+  "allowed_evidence": [
+    "A single trial can be affected by random variation and confounders. A stronger comparison uses replication, random assignment, comparable conditions, predefined outcomes, and uncertainty estimates."
+  ],
+  "public_rubric": [
+    "Resists the premature conclusion without dismissing the observation.",
+    "Proposes a concrete comparative design.",
+    "Addresses replication, randomization, and measurement.",
+    "Explains what evidence would support or weaken the claim."
+  ]
+}

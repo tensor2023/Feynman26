@@ -1,0 +1,11 @@
+{
+  "user_message": "Earlier you said crossed polarizers block light. With initially unpolarized light, I inserted a third ideal polarizer at 45° between them and some light returned. Doesn't that disprove your explanation?",
+  "allowed_evidence": [
+    "An ideal polarizer transmits the component of the incident electric field along its axis. For initially unpolarized light, the first polarizer transmits half the intensity; each later polarizer contributes a factor of cos²θ relative to the preceding polarization."
+  ],
+  "public_rubric": [
+    "Acknowledges and resolves the apparent contradiction.",
+    "Tracks polarization through all three elements.",
+    "Gives the ideal intensity fraction and states relevant assumptions."
+  ]
+}

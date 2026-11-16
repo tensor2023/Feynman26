@@ -1,0 +1,11 @@
+{
+  "user_message": "Someone argues that cutting a bar magnet in half must isolate a north pole on one piece and a south pole on the other. Explain what the experiment actually yields and what it does—and does not—show about magnetic monopoles.",
+  "allowed_evidence": [
+    "Ordinary bar magnets are magnetized through microscopic magnetic moments organized into domains. Cutting one creates new end surfaces, and each piece ordinarily behaves as a smaller north–south dipole. No fundamental magnetic monopole has been confirmed experimentally, although some theories permit monopoles and some condensed-matter systems support monopole-like quasiparticles."
+  ],
+  "public_rubric": [
+    "Corrects the expected result of cutting the magnet.",
+    "Explains it using magnetization, domains, or microscopic dipoles.",
+    "Separates the cutting experiment from the broader search for fundamental monopoles."
+  ]
+}

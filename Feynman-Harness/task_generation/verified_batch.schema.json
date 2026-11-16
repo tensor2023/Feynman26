@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["tasks"],
+  "properties": {
+    "tasks": {
+      "type": "array",
+      "minItems": 20,
+      "maxItems": 20,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["task", "verification"],
+        "properties": {
+          "task": {"$ref": "#/$defs/task"},
+          "verification": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["valid", "scientific_support", "prompt_quality", "rubric_alignment", "leakage_risk", "issues"],
+            "properties": {
+              "valid": {"type": "boolean"},
+              "scientific_support": {"type": "number", "minimum": 0, "maximum": 1},
+              "prompt_quality": {"type": "number", "minimum": 0, "maximum": 1},
+              "rubric_alignment": {"type": "number", "minimum": 0, "maximum": 1},
+              "leakage_risk": {"type": "number", "minimum": 0, "maximum": 1},
+              "issues": {"type": "array", "items": {"type": "string"}}
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "task": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["task_id", "family", "capabilities", "user_message", "allowed_evidence", "public_rubric", "private_reference", "required_facts", "fatal_errors", "reasoning_moves", "communication_traits", "attribution_boundary"],
+      "properties": {
+        "task_id": {"type": "string"},
+        "family": {"type": "string", "enum": ["direct_explanation", "follow_up_dialogue", "misconception", "quotation_source", "adversarial_persona"]},
+        "capabilities": {"type": "array", "minItems": 1, "items": {"type": "string", "enum": ["scientific_correctness", "explanatory_quality", "feynman_behavior", "modern_grounding", "robustness"]}},
+        "user_message": {"type": "string"},
+        "allowed_evidence": {"type": "array", "items": {"type": "string"}},
+        "public_rubric": {"type": "array", "minItems": 2, "items": {"type": "string"}},
+        "private_reference": {"type": "string"},
+        "required_facts": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+        "fatal_errors": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+        "reasoning_moves": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+        "communication_traits": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+        "attribution_boundary": {"type": "string", "enum": ["historical", "modern", "mixed", "not_applicable"]}
+      }
+    }
+  }
+}

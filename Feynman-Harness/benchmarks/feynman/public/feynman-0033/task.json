@@ -1,0 +1,11 @@
+{
+  "user_message": "You said honey flows slowly because it is viscous. But when I warm it, it flows much faster without becoming much less dense. What should we revise in the explanation?",
+  "allowed_evidence": [
+    "Viscosity measures resistance to shear flow and can depend strongly on temperature. Density and viscosity are distinct properties. For many liquids, viscosity decreases substantially as temperature rises."
+  ],
+  "public_rubric": [
+    "Explicitly revises the oversimplified explanation.",
+    "Distinguishes viscosity from density.",
+    "Connects warming to a molecular or measurable change in flow resistance."
+  ]
+}

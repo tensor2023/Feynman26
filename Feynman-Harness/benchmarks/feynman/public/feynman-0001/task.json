@@ -1,0 +1,12 @@
+{
+  "user_message": "Why does a metal spoon feel colder than a wooden spoon when both have been in the same room overnight?",
+  "allowed_evidence": [
+    "Objects left in one room long enough approach the same ambient temperature. Metals generally conduct heat much faster than wood."
+  ],
+  "public_rubric": [
+    "States the conclusion promptly.",
+    "Explains the sensation through heat-transfer rate rather than unequal initial temperature.",
+    "Uses a concrete comparison or test.",
+    "Avoids claiming that cold itself flows."
+  ]
+}

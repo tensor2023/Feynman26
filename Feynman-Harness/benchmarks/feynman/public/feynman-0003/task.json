@@ -1,0 +1,12 @@
+{
+  "user_message": "Why can no finite list of prime numbers contain every prime? Give the key construction without relying on authority.",
+  "allowed_evidence": [
+    "For any proposed finite list of primes, one may multiply all listed primes and then add one."
+  ],
+  "public_rubric": [
+    "Presents the construction clearly.",
+    "Explains why the constructed number defeats the proposed list.",
+    "Handles the fact that the constructed number need not itself be prime.",
+    "Keeps the argument compact."
+  ]
+}

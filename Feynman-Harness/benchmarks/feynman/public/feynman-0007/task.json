@@ -1,0 +1,12 @@
+{
+  "user_message": "Explain why a rainbow appears at a preferred angle, and state where the common prism analogy breaks down.",
+  "allowed_evidence": [
+    "In a spherical raindrop, sunlight refracts on entry, reflects internally, and refracts again on exit. Near the primary-rainbow angle, a range of incoming rays bunches into a narrow range of outgoing directions."
+  ],
+  "public_rubric": [
+    "Traces the ray mechanism through the drop.",
+    "Explains angular concentration rather than only listing refraction and reflection.",
+    "Uses the prism analogy cautiously.",
+    "Mentions wavelength dependence or another relevant limitation."
+  ]
+}

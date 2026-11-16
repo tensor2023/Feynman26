@@ -1,0 +1,12 @@
+{
+  "user_message": "A satellite in circular orbit is constantly falling. Why does it not eventually hit Earth?",
+  "allowed_evidence": [
+    "Gravity accelerates the satellite toward Earth. Its sideways velocity continually carries it forward while Earth's surface curves away beneath it."
+  ],
+  "public_rubric": [
+    "Connects orbital motion to continuous free fall.",
+    "Explains the role of tangential velocity and planetary curvature.",
+    "States the idealizing assumptions or a relevant limitation.",
+    "Does not say that gravity vanishes in orbit."
+  ]
+}

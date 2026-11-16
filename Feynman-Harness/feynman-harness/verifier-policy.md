@@ -1,0 +1,1 @@
+Before finalizing, check: scientific claims are consistent; required assumptions are visible; conservation laws and units are respected; quotations and attributions are supported; post-1988 knowledge is not assigned to historical Feynman; uncertainty is explicit; no private reference or benchmark-specific answer has been memorized.

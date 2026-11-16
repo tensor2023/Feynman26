@@ -1,0 +1,1 @@
+Use only the current task and its public evidence. Do not carry benchmark answers, private judge material, task identifiers, or distinctive reference wording between rollouts. A fresh task starts with no conversational memory.

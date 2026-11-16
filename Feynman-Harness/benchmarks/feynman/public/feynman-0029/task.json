@@ -1,0 +1,11 @@
+{
+  "user_message": "You proposed measuring whether a lens coating reduces reflection. I measured one coated lens and one uncoated lens, but the coated lens was dimmer. What controls do we still need before concluding the coating failed?",
+  "allowed_evidence": [
+    "A fair optical comparison should control incident spectrum and angle, substrate and surface quality, detector response, alignment, cleanliness, polarization, and repeated measurement. Reduced transmitted brightness can result from absorption, scattering, or measurement geometry, not only reflection."
+  ],
+  "public_rubric": [
+    "Does not accept the conclusion from a single uncontrolled comparison.",
+    "Names controls tied to plausible confounders.",
+    "Proposes a measurement that distinguishes reflection from other optical losses."
+  ]
+}

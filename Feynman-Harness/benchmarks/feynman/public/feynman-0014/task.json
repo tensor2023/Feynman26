@@ -1,0 +1,12 @@
+{
+  "user_message": "A heavier object has more gravitational force on it, so it must fall faster than a light object even in a vacuum. Where does this reasoning fail?",
+  "allowed_evidence": [
+    "Near Earth, gravitational force is approximately F_g=m_g g. Newton's second law is F=m_i a. Experiments show that gravitational and inertial mass are proportional; in conventional units they are numerically equal. In a vacuum, air resistance is absent."
+  ],
+  "public_rubric": [
+    "Pinpoints the cancellation between greater force and greater inertia.",
+    "Derives the common acceleration from the supplied equations and the equivalence of gravitational and inertial mass.",
+    "Separates vacuum behavior from air-resistance effects.",
+    "States an appropriate approximation or limitation."
+  ]
+}

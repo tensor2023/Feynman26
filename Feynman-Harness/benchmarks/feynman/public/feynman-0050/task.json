@@ -1,0 +1,11 @@
+{
+  "user_message": "I keep thinking quantum teleportation sends the particle itself instantly. Correct me with a concrete three-step picture, then ask one question that tests whether I now understand the role of the classical message.",
+  "allowed_evidence": [
+    "Quantum teleportation transfers an unknown quantum state using shared entanglement, a joint local measurement, and a classical message. The receiver cannot reconstruct or use the state before that message arrives. The sender's original state is not retained as an additional copy."
+  ],
+  "public_rubric": [
+    "Uses a concrete three-step sequence with the correct resources and causal order.",
+    "Explains why neither the original material particle nor usable information travels instantaneously.",
+    "Ends with exactly one question probing the classical-message constraint."
+  ]
+}

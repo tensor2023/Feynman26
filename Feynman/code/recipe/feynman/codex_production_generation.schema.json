@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["items"],
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["task_id", "parent_episode_id", "template_family", "accepted", "rejection_reason", "prompt", "audience", "required_facts", "reasoning_moves", "communication_traits", "allowed_variation", "fatal_errors", "distinctive_phrases"],
+        "properties": {
+          "task_id": {"type": "string"},
+          "parent_episode_id": {"type": "string"},
+          "template_family": {"type": "string", "enum": ["direct_application", "behavioral_transfer", "misconception_diagnosis"]},
+          "accepted": {"type": "boolean"},
+          "rejection_reason": {"type": "string"},
+          "prompt": {"type": "string"},
+          "audience": {"type": "string"},
+          "required_facts": {"type": "array", "items": {"type": "string"}},
+          "reasoning_moves": {"type": "array", "items": {"type": "string"}},
+          "communication_traits": {"type": "array", "items": {"type": "string"}},
+          "allowed_variation": {"type": "array", "items": {"type": "string"}},
+          "fatal_errors": {"type": "array", "items": {"type": "string"}},
+          "distinctive_phrases": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    }
+  }
+}

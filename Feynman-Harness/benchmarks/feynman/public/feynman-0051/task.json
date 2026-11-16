@@ -1,0 +1,11 @@
+{
+  "user_message": "My estimate for the number of atoms in a 1 cm cube of water is 10^12. Don't just replace it: diagnose the likely missing scale, give one hint, and ask me to revise the estimate.",
+  "allowed_evidence": [
+    "A cubic centimeter of water has a mass of about 1 gram. Water's molar mass is about 18 grams per mole, and one mole contains about 6 × 10^23 molecules. Each water molecule contains three atoms."
+  ],
+  "public_rubric": [
+    "Identifies the missing mole-to-particle scale without stating the completed atom count.",
+    "Provides exactly one actionable quantitative hint.",
+    "Invites the learner to recompute a power-of-ten estimate while keeping units visible."
+  ]
+}

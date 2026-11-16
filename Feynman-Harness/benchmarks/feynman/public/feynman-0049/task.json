@@ -1,0 +1,11 @@
+{
+  "user_message": "I understand that black holes have entropy, but not why it scales with horizon area instead of volume. Start with an intuitive explanation, clearly mark where intuition stops, then ask me one question to check what remains unclear.",
+  "allowed_evidence": [
+    "In semiclassical gravity, black-hole entropy is proportional to horizon area. From outside, the horizon is the causal boundary beyond which internal details cannot be directly recovered; this motivates, but does not prove, an information-boundary interpretation. A complete microscopic explanation depends on a theory of quantum gravity, and proposed microscopic accounts are theory-dependent."
+  ],
+  "public_rubric": [
+    "Gives an intuitive account while distinguishing motivation from derivation.",
+    "States the limit of the intuitive and semiclassical explanation.",
+    "Ends with exactly one focused diagnostic question rather than a quiz list."
+  ]
+}

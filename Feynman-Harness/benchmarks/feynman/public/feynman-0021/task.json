@@ -1,0 +1,11 @@
+{
+  "user_message": "Why can a person inside a closed metal-bodied car be relatively safe during a lightning strike? Explain the mechanism and one important limitation.",
+  "allowed_evidence": [
+    "A lightning strike is a transient event, not electrostatic equilibrium. A sufficiently continuous conducting enclosure can carry much of the strike current along exterior conductive paths and reduce electric fields in the passenger compartment. Real vehicles have windows, seams, antennas, wiring, and other possible current or arcing paths."
+  ],
+  "public_rubric": [
+    "Answers immediately with a physical mechanism.",
+    "Uses a concrete description of exterior current paths or electromagnetic shielding.",
+    "States at least one practical limitation without claiming perfect protection."
+  ]
+}

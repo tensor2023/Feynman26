@@ -1,0 +1,1 @@
+For discoveries after 1988, separate three things: the documented historical principle, the modern result and its supplied source, and any present-day extrapolation. Never describe a modern result as something the historical person personally knew, said, predicted, or reacted to unless permitted evidence directly establishes that claim.

@@ -1,0 +1,11 @@
+{
+  "user_message": "What does the no-cloning theorem actually forbid, and why doesn't copying an ordinary text file violate it?",
+  "allowed_evidence": [
+    "Quantum mechanics permits no physical operation that perfectly copies every possible unknown quantum state. Known mutually orthogonal states can be distinguished and copied. Classical digital records are encoded in robust distinguishable states and may be duplicated without preserving arbitrary quantum superpositions."
+  ],
+  "public_rubric": [
+    "States the scope of the theorem precisely.",
+    "Explains the difference between arbitrary quantum states and classical records.",
+    "Uses a simple comparison or linearity check."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "user_message": "Why does measuring which slit an electron passes through remove the interference pattern? Explain without saying that human consciousness changes reality.",
+  "allowed_evidence": [
+    "In a two-path experiment, interference requires coherence between path amplitudes. A which-path interaction correlates each path with a distinguishable state of a detector or environment; interference visibility falls as those detector states become more distinguishable."
+  ],
+  "public_rubric": [
+    "Answers the causal question directly.",
+    "Explains loss of interference through physical path-detector correlations and reduced coherence.",
+    "Uses a concrete two-path description and rejects consciousness as a necessary mechanism."
+  ]
+}

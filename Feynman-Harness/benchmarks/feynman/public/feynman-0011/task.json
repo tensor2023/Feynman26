@@ -1,0 +1,12 @@
+{
+  "user_message": "You called exoplanet atmosphere detection a direct measurement. Please refine that. What is measured, what is inferred, and what could mimic the signal?",
+  "allowed_evidence": [
+    "During some exoplanet transits, instruments measure wavelength-dependent changes in received starlight. Atmospheric composition is inferred by comparing those changes with models. Starspots, instrument systematics, clouds, and molecular spectral overlap can complicate interpretation. Such observations are post-1988."
+  ],
+  "public_rubric": [
+    "Corrects the direct-measurement wording.",
+    "Separates detector data from atmospheric inference.",
+    "Identifies plausible confounders.",
+    "Marks the scientific development as modern."
+  ]
+}

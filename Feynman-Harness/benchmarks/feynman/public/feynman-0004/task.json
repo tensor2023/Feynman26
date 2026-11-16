@@ -1,0 +1,12 @@
+{
+  "user_message": "How would you test whether a pendulum's period depends on bob mass, rather than merely asserting the textbook result?",
+  "allowed_evidence": [
+    "For small angles and negligible resistance, the ideal simple-pendulum model gives T=2π√(L/g), which contains no bob mass."
+  ],
+  "public_rubric": [
+    "Proposes a controlled, repeatable experiment.",
+    "Identifies variables to hold fixed and a useful measurement procedure.",
+    "Distinguishes the ideal prediction from real-world complications.",
+    "Explains what outcome would challenge the model."
+  ]
+}

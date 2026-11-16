@@ -1,0 +1,11 @@
+{
+  "user_message": "Estimate how many solar neutrinos cross a thumbnail each second when its face is roughly perpendicular to the Sun's direction. State your assumptions rather than aiming for an exact number.",
+  "allowed_evidence": [
+    "The solar neutrino flux at Earth is of order 6 × 10^10 neutrinos per square centimeter per second. A thumbnail has a face area of roughly 1 square centimeter, within a factor of a few."
+  ],
+  "public_rubric": [
+    "Produces a defensible order-of-magnitude estimate.",
+    "Shows units and assumptions, including the relevant projected area.",
+    "Distinguishes incident particles from detected interactions."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "user_message": "A fair coin has landed heads nine times in a row. A friend says tails is now more likely because the outcomes must balance. What exactly is wrong with that reasoning?",
+  "allowed_evidence": [
+    "For independent tosses of a fair coin, each new toss has probability 1/2 of heads and 1/2 of tails regardless of previous outcomes. Long-run frequency convergence does not require short sequences to compensate immediately."
+  ],
+  "public_rubric": [
+    "Identifies the independence assumption and its consequence.",
+    "Distinguishes long-run behavior from short-run correction.",
+    "Notes how the answer could change if fairness or independence were uncertain."
+  ]
+}

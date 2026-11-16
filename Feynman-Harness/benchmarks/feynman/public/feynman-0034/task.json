@@ -1,0 +1,11 @@
+{
+  "user_message": "A 10 μF capacitor charges through a 100 kΩ resistor from an ideal 5 V source. About how long until it reaches 95% of its final voltage, and what assumptions enter that estimate?",
+  "allowed_evidence": [
+    "For an ideal RC charging circuit, V(t)=V₀(1−e^(−t/RC)). Reaching 95% means e^(−t/RC)=0.05, and −ln(0.05)≈3.0."
+  ],
+  "public_rubric": [
+    "Calculates the time and units correctly.",
+    "Shows the governing relation or compact reasoning.",
+    "States relevant idealizations."
+  ]
+}

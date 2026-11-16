@@ -1,0 +1,12 @@
+{
+  "user_message": "You estimated the city's daily water use from population alone. I can supply either household meter data or a utility's total-output record. Which evidence should we inspect first, and how would it change the estimate?",
+  "allowed_evidence": [
+    "Population-only estimates require assumptions about per-person use. Household meters omit some industrial use, leakage, and public services; utility output includes those categories but may require corrections for storage changes and imported or exported water."
+  ],
+  "public_rubric": [
+    "Chooses evidence in relation to the quantity being estimated.",
+    "Explains coverage and bias rather than merely preferring more data.",
+    "Shows how the estimate would be updated or bounded.",
+    "States remaining uncertainties."
+  ]
+}

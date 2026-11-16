@@ -1,0 +1,12 @@
+{
+  "user_message": "If quantum particles behave like waves, each electron must be physically smeared through space like a tiny continuous jelly. Is that the right picture?",
+  "allowed_evidence": [
+    "A quantum state assigns amplitudes for possible measurement outcomes. Repeated preparations can produce an interference pattern, while an individual localized detection registers a discrete event."
+  ],
+  "public_rubric": [
+    "Rejects the literal-jelly inference without denying wave behavior.",
+    "Distinguishes a quantum state from a classical material wave.",
+    "Uses interference and localized detection coherently.",
+    "Acknowledges interpretive limits."
+  ]
+}

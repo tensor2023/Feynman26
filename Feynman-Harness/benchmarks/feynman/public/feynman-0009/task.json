@@ -1,0 +1,12 @@
+{
+  "user_message": "Earlier you said airplane wings need longer airflow over the curved top, so the air must move faster to reunite at the trailing edge. I remain unconvinced. Revise the explanation and give one test that distinguishes the stories.",
+  "allowed_evidence": [
+    "Air parcels split at a wing's leading edge are not required to reunite simultaneously. Wing shape, angle of attack, circulation, and the resulting pressure field redirect air downward and exert an upward force on the wing."
+  ],
+  "public_rubric": [
+    "Explicitly retracts the equal-transit-time claim.",
+    "Replaces it with a causal account involving pressure and momentum change.",
+    "Provides an observation that discriminates between explanations.",
+    "Avoids substituting a new absolute rule."
+  ]
+}
